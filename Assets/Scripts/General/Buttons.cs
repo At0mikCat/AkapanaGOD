@@ -7,18 +7,22 @@ public class Buttons : MonoBehaviour
 {
     public void MainMenu()
     {
+        Time.timeScale = 1;
         SceneManager.LoadScene("MainMenu");
     }
     public void Play()
     {
+        Time.timeScale = 1;
         SceneManager.LoadScene("Game");
     }
     public void Credits()
     {
+        Time.timeScale = 1;
         SceneManager.LoadScene("Credits");
     }
     public void Reload()
     {
+        Time.timeScale = 1;
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
     public void Quit()

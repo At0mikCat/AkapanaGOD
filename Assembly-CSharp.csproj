@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9F285D33-FA66-0F9B-DAEC-BD1D0BB2A7BE}</ProjectGuid>
+    <ProjectGuid>{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -60,15 +60,15 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.36f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\QTEs\FirstQTE.cs" />
     <Compile Include="Assets\JoyconLib\JoyconLib_scripts\JoyconManager.cs" />
-    <Compile Include="Assets\Scripts\QTEs\ThirdQTE.cs" />
+    <Compile Include="Assets\Scripts\QTE2\DragnDrop.cs" />
     <Compile Include="Assets\JoyconLib\JoyconLib_scripts\HIDapi.cs" />
+    <Compile Include="Assets\Scripts\QTE1\BarraEquilibrioQTE1.cs" />
     <Compile Include="Assets\JoyconLib\JoyconDemo.cs" />
     <Compile Include="Assets\JoyconLib\JoyconLib_scripts\Joycon.cs" />
+    <Compile Include="Assets\Scripts\QTE1\BarraStaminaQTE1.cs" />
     <Compile Include="Assets\Scripts\General\Buttons.cs" />
     <Compile Include="Assets\Scripts\General\GameManager.cs" />
-    <Compile Include="Assets\Scripts\QTEs\SecondQTE.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

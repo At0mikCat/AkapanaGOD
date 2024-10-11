@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|c:\\users\\marce\\onedrive\\documentos\\github\\akapanagod\\assets\\scripts\\qte2\\dragndrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\qte2\\dragndrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|c:\\users\\marce\\onedrive\\documentos\\github\\akapanagod\\assets\\scripts\\qte1\\barraequilibrioqte1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\qte1\\barraequilibrioqte1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\assets\\scripts\\qte1\\barrastaminaqte1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\qte1\\barrastaminaqte1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\assets\\scripts\\general\\buttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\buttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DragnDrop.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\QTE2\\DragnDrop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\QTE2\\DragnDrop.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\QTE2\\DragnDrop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\QTE2\\DragnDrop.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAArwCMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T23:05:05.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BarraStaminaQTE1.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\QTE1\\BarraStaminaQTE1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\QTE1\\BarraStaminaQTE1.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\QTE1\\BarraStaminaQTE1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\QTE1\\BarraStaminaQTE1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:39:59.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BarraEquilibrioQTE1.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\QTE1\\BarraEquilibrioQTE1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\QTE1\\BarraEquilibrioQTE1.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\QTE1\\BarraEquilibrioQTE1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\QTE1\\BarraEquilibrioQTE1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:00:34.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Buttons.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\Buttons.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\Buttons.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\Buttons.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\Buttons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:39:15.601Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
