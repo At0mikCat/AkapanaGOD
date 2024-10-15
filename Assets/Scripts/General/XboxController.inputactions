@@ -1,0 +1,114 @@
+{
+    "name": "XboxController",
+    "maps": [
+        {
+            "name": "Game",
+            "id": "32a2d9b9-8ad8-418e-bf60-c6c0d2276945",
+            "actions": [
+                {
+                    "name": "IncreaseStamina",
+                    "type": "Button",
+                    "id": "f0d62e7c-e05e-46cf-a8d7-dbe4b825820a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "ToLeft",
+                    "type": "Button",
+                    "id": "0c8b486e-3945-4113-849a-80249bbaf15c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "ToRight",
+                    "type": "Button",
+                    "id": "8f98d82c-e814-465c-b17d-cdd98c28e9f9",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Ignited",
+                    "type": "Button",
+                    "id": "68cca09b-7f07-4ff9-8830-2e5bc5bfe2b1",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "ExitCredits",
+                    "type": "Button",
+                    "id": "ff434b65-1bbd-442f-95e4-b2d385bf3d3d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "19320204-0d5c-456e-8d72-6696f9cc2577",
+                    "path": "<XInputController>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "IncreaseStamina",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3c303adb-89ec-4095-bb58-354dac630572",
+                    "path": "<XInputController>/rightTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ToLeft",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f3b2a0ea-7c98-4e0c-80c1-ae0d007b3b8d",
+                    "path": "<XInputController>/leftTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ToRight",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "20625d41-f98d-4574-bc43-4df5aea03ecd",
+                    "path": "<XInputController>/rightStickPress",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Ignited",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "597b7d75-b7b5-4724-9e6c-ccf2362fdae6",
+                    "path": "<XInputController>/buttonEast",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ExitCredits",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

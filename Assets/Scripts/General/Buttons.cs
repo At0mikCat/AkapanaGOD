@@ -13,7 +13,7 @@ public class Buttons : MonoBehaviour
     public void Play()
     {
         Time.timeScale = 1;
-        SceneManager.LoadScene("Game");
+        SceneManager.LoadScene("1. Game1+QTE1");
     }
     public void Credits()
     {
