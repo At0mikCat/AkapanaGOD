@@ -11,6 +11,7 @@ public class BarraStaminaQTE1 : MonoBehaviour
     [SerializeField] private Image staminaBar;
 
     public GameObject MenuLose;
+    public GameObject GameUI;
     XboxController controls;
     Gamepad gamepad;
 
@@ -40,6 +41,7 @@ public class BarraStaminaQTE1 : MonoBehaviour
         {
             MenuLose.SetActive(true);
             StopVibration();
+            GameUI.SetActive(false);
         }
     }
     void TriggerVibration()

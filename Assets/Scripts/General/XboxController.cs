@@ -71,6 +71,15 @@ public partial class @XboxController: IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""Pause"",
+                    ""type"": ""Button"",
+                    ""id"": ""4dfae304-3777-4296-8106-7544bfe9397c"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
                 }
             ],
             ""bindings"": [
@@ -128,6 +137,17 @@ public partial class @XboxController: IInputActionCollection2, IDisposable
                     ""action"": ""ExitCredits"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""5792570c-c0d2-40ce-9f34-9d380a12f45e"",
+                    ""path"": ""<Gamepad>/start"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Pause"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
                 }
             ]
         }
@@ -141,6 +161,7 @@ public partial class @XboxController: IInputActionCollection2, IDisposable
         m_Game_ToRight = m_Game.FindAction("ToRight", throwIfNotFound: true);
         m_Game_Ignited = m_Game.FindAction("Ignited", throwIfNotFound: true);
         m_Game_ExitCredits = m_Game.FindAction("ExitCredits", throwIfNotFound: true);
+        m_Game_Pause = m_Game.FindAction("Pause", throwIfNotFound: true);
     }
 
     public void Dispose()
@@ -207,6 +228,7 @@ public partial class @XboxController: IInputActionCollection2, IDisposable
     private readonly InputAction m_Game_ToRight;
     private readonly InputAction m_Game_Ignited;
     private readonly InputAction m_Game_ExitCredits;
+    private readonly InputAction m_Game_Pause;
     public struct GameActions
     {
         private @XboxController m_Wrapper;
@@ -216,6 +238,7 @@ public partial class @XboxController: IInputActionCollection2, IDisposable
         public InputAction @ToRight => m_Wrapper.m_Game_ToRight;
         public InputAction @Ignited => m_Wrapper.m_Game_Ignited;
         public InputAction @ExitCredits => m_Wrapper.m_Game_ExitCredits;
+        public InputAction @Pause => m_Wrapper.m_Game_Pause;
         public InputActionMap Get() { return m_Wrapper.m_Game; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -240,6 +263,9 @@ public partial class @XboxController: IInputActionCollection2, IDisposable
             @ExitCredits.started += instance.OnExitCredits;
             @ExitCredits.performed += instance.OnExitCredits;
             @ExitCredits.canceled += instance.OnExitCredits;
+            @Pause.started += instance.OnPause;
+            @Pause.performed += instance.OnPause;
+            @Pause.canceled += instance.OnPause;
         }
 
         private void UnregisterCallbacks(IGameActions instance)
@@ -259,6 +285,9 @@ public partial class @XboxController: IInputActionCollection2, IDisposable
             @ExitCredits.started -= instance.OnExitCredits;
             @ExitCredits.performed -= instance.OnExitCredits;
             @ExitCredits.canceled -= instance.OnExitCredits;
+            @Pause.started -= instance.OnPause;
+            @Pause.performed -= instance.OnPause;
+            @Pause.canceled -= instance.OnPause;
         }
 
         public void RemoveCallbacks(IGameActions instance)
@@ -283,5 +312,6 @@ public partial class @XboxController: IInputActionCollection2, IDisposable
         void OnToRight(InputAction.CallbackContext context);
         void OnIgnited(InputAction.CallbackContext context);
         void OnExitCredits(InputAction.CallbackContext context);
+        void OnPause(InputAction.CallbackContext context);
     }
 }

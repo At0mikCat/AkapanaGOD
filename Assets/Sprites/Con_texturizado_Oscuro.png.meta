@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: 67250d42acacfb046b2aee8cb6059323
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Con_texturizado_Oscuro_29
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 847
+        width: 1291
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da71d689a5ab6ce47878a521dc89cc1d
+      internalID: 1534941693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Con_texturizado_Oscuro_30
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 782
+        width: 1289
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbbf3de087a935499cb9d149e7cf515
+      internalID: -466161034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Con_texturizado_Oscuro_51
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 596
+        width: 1176
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb57cdc0522b30d4ba04d68fd9fbf823
+      internalID: 1011914616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Con_texturizado_Oscuro_52
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 628
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2eb1f6497399d640afd3343fcae5bd8
+      internalID: -441838340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Con_texturizado_Oscuro_53
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 494
+        width: 1172
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7f1033d6c6e9c4691a632de6fb0ba8
+      internalID: 218141571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Con_texturizado_Oscuro_82
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 338
+        width: 631
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fd7349d2685834daa3c3d2715eacc8
+      internalID: -1420252332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Con_texturizado_Oscuro_83
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 363
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dd67481d68ddc499170b50aca50d71
+      internalID: -91660393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Con_texturizado_Oscuro_102
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 250
+        width: 627
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907cb8e6ce668a04c946fa39ff40c375
+      internalID: 145893114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Con_texturizado_Oscuro_0: -1923191371
+      Con_texturizado_Oscuro_1: -2144945648
+      Con_texturizado_Oscuro_10: 1041559424
+      Con_texturizado_Oscuro_100: -597264409
+      Con_texturizado_Oscuro_101: -1222137723
+      Con_texturizado_Oscuro_102: 145893114
+      Con_texturizado_Oscuro_103: 1415097455
+      Con_texturizado_Oscuro_11: 1582588121
+      Con_texturizado_Oscuro_12: -690430178
+      Con_texturizado_Oscuro_13: -266864864
+      Con_texturizado_Oscuro_14: -1920941936
+      Con_texturizado_Oscuro_15: 195502946
+      Con_texturizado_Oscuro_16: 1806569226
+      Con_texturizado_Oscuro_17: 1721250787
+      Con_texturizado_Oscuro_18: 2111336240
+      Con_texturizado_Oscuro_19: -1523455825
+      Con_texturizado_Oscuro_2: -2005383985
+      Con_texturizado_Oscuro_20: -2119778982
+      Con_texturizado_Oscuro_21: -794261175
+      Con_texturizado_Oscuro_22: 895234734
+      Con_texturizado_Oscuro_23: -75336264
+      Con_texturizado_Oscuro_24: 2053410319
+      Con_texturizado_Oscuro_25: 177641107
+      Con_texturizado_Oscuro_26: -985789973
+      Con_texturizado_Oscuro_27: 153485589
+      Con_texturizado_Oscuro_28: -1974536605
+      Con_texturizado_Oscuro_29: 1534941693
+      Con_texturizado_Oscuro_3: -1223342557
+      Con_texturizado_Oscuro_30: -466161034
+      Con_texturizado_Oscuro_31: -1360777756
+      Con_texturizado_Oscuro_32: 1109074371
+      Con_texturizado_Oscuro_33: 842863305
+      Con_texturizado_Oscuro_34: 1316034356
+      Con_texturizado_Oscuro_35: 404824990
+      Con_texturizado_Oscuro_36: 1271080985
+      Con_texturizado_Oscuro_37: -326439469
+      Con_texturizado_Oscuro_38: -632662866
+      Con_texturizado_Oscuro_39: 1398892460
+      Con_texturizado_Oscuro_4: 774317409
+      Con_texturizado_Oscuro_40: 1174009446
+      Con_texturizado_Oscuro_41: 2132386016
+      Con_texturizado_Oscuro_42: 1339078372
+      Con_texturizado_Oscuro_43: -1619181739
+      Con_texturizado_Oscuro_44: 485305301
+      Con_texturizado_Oscuro_45: -1311158627
+      Con_texturizado_Oscuro_46: 1820543087
+      Con_texturizado_Oscuro_47: 524352349
+      Con_texturizado_Oscuro_48: 931463922
+      Con_texturizado_Oscuro_49: -1903639840
+      Con_texturizado_Oscuro_5: -47927884
+      Con_texturizado_Oscuro_50: 1392123531
+      Con_texturizado_Oscuro_51: 1011914616
+      Con_texturizado_Oscuro_52: -441838340
+      Con_texturizado_Oscuro_53: 218141571
+      Con_texturizado_Oscuro_54: 1939357579
+      Con_texturizado_Oscuro_55: -133786287
+      Con_texturizado_Oscuro_56: 1466766398
+      Con_texturizado_Oscuro_57: -1342325698
+      Con_texturizado_Oscuro_58: -213537732
+      Con_texturizado_Oscuro_59: 1246358939
+      Con_texturizado_Oscuro_6: 466823311
+      Con_texturizado_Oscuro_60: 1078339094
+      Con_texturizado_Oscuro_61: -839915580
+      Con_texturizado_Oscuro_62: 122884854
+      Con_texturizado_Oscuro_63: 531109148
+      Con_texturizado_Oscuro_64: -1991507215
+      Con_texturizado_Oscuro_65: -1400849143
+      Con_texturizado_Oscuro_66: 2049951631
+      Con_texturizado_Oscuro_67: 1594548783
+      Con_texturizado_Oscuro_68: 408090487
+      Con_texturizado_Oscuro_69: -1426372268
+      Con_texturizado_Oscuro_7: -1306455959
+      Con_texturizado_Oscuro_70: 1128434579
+      Con_texturizado_Oscuro_71: 1297678621
+      Con_texturizado_Oscuro_72: 351603791
+      Con_texturizado_Oscuro_73: 386353968
+      Con_texturizado_Oscuro_74: 474944085
+      Con_texturizado_Oscuro_75: 1853003277
+      Con_texturizado_Oscuro_76: 1649733951
+      Con_texturizado_Oscuro_77: -1527327861
+      Con_texturizado_Oscuro_78: 264942121
+      Con_texturizado_Oscuro_79: -148093335
+      Con_texturizado_Oscuro_8: 1006305856
+      Con_texturizado_Oscuro_80: 1985292344
+      Con_texturizado_Oscuro_81: -1877258538
+      Con_texturizado_Oscuro_82: -1420252332
+      Con_texturizado_Oscuro_83: -91660393
+      Con_texturizado_Oscuro_84: -944361377
+      Con_texturizado_Oscuro_85: 704616584
+      Con_texturizado_Oscuro_86: 2012859751
+      Con_texturizado_Oscuro_87: 317128549
+      Con_texturizado_Oscuro_88: -547362070
+      Con_texturizado_Oscuro_89: 1395175612
+      Con_texturizado_Oscuro_9: -50305375
+      Con_texturizado_Oscuro_90: -896058505
+      Con_texturizado_Oscuro_91: 482853097
+      Con_texturizado_Oscuro_92: 577611109
+      Con_texturizado_Oscuro_93: 1409440815
+      Con_texturizado_Oscuro_94: -504089817
+      Con_texturizado_Oscuro_95: -2141759975
+      Con_texturizado_Oscuro_96: -1363175144
+      Con_texturizado_Oscuro_97: -2016733081
+      Con_texturizado_Oscuro_98: -72076922
+      Con_texturizado_Oscuro_99: -2017358081
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

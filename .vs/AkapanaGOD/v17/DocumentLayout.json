@@ -3,20 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|c:\\users\\marce\\onedrive\\documentos\\github\\akapanagod\\assets\\scripts\\qte2\\fosforoignite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|c:\\users\\marce\\onedrive\\documentos\\github\\akapanagod\\assets\\scripts\\general\\cinematicmanager3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\cinematicmanager3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|c:\\users\\marce\\onedrive\\documentos\\github\\akapanagod\\assets\\scripts\\general\\cinematicmanager2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\cinematicmanager2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\assets\\scripts\\general\\cinematicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\cinematicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\assets\\scripts\\qte2\\fosforoignite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\qte2\\fosforoignite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\assets\\scripts\\general\\selected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\selected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\assets\\scripts\\general\\buttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\buttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\MainMenuAnimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\General\\MainMenuAnimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\PauseNow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\General\\PauseNow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\isButtonSelected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\General\\isButtonSelected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\assets\\scripts\\general\\returntomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\returntomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\assets\\scripts\\general\\alwaysawake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\alwaysawake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\assets\\scripts\\qte1\\barrastaminaqte1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\qte1\\barrastaminaqte1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\assets\\scripts\\qte1\\barraequilibrioqte1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\qte1\\barraequilibrioqte1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\assets\\scripts\\general\\menuanimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\menuanimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\QTE2\\DragnDrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\assets\\scripts\\general\\xboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\xboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\assets\\scripts\\qte1\\barraequilibrioqte1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{117ED26E-BA0B-FE67-17B9-3B0B73844BAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\qte1\\barraequilibrioqte1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,35 +70,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainMenuAnimations.cs",
-              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\MainMenuAnimations.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\MainMenuAnimations.cs",
-              "ToolTip": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\MainMenuAnimations.cs",
-              "RelativeToolTip": "Assets\\Scripts\\General\\MainMenuAnimations.cs",
+              "DocumentIndex": 0,
+              "Title": "CinematicManager3.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\CinematicManager3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\CinematicManager3.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\CinematicManager3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\CinematicManager3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T22:00:18.771Z"
+              "WhenOpened": "2024-10-20T17:11:14.647Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "CinematicManager2.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\CinematicManager2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\CinematicManager2.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\CinematicManager2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\CinematicManager2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T01:04:44.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PauseNow.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\PauseNow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\PauseNow.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\PauseNow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\PauseNow.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T23:34:59.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Selected.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\Selected.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\Selected.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\Selected.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\Selected.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T21:58:51.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "isButtonSelected.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\isButtonSelected.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\isButtonSelected.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\isButtonSelected.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\isButtonSelected.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T21:49:00.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CinematicManager.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\CinematicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\CinematicManager.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\CinematicManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\CinematicManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T20:21:01.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "FosforoIgnite.cs",
               "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\QTE2\\FosforoIgnite.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\QTE2\\FosforoIgnite.cs",
               "ToolTip": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\QTE2\\FosforoIgnite.cs",
               "RelativeToolTip": "Assets\\Scripts\\QTE2\\FosforoIgnite.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAeAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T20:26:00.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T20:26:00.303Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "XboxController.cs",
               "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\XboxController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\General\\XboxController.cs",
@@ -78,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "DragnDrop.cs",
               "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\QTE2\\DragnDrop.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\QTE2\\DragnDrop.cs",
@@ -89,39 +181,75 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "BarraStaminaQTE1.cs",
               "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\QTE1\\BarraStaminaQTE1.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\QTE1\\BarraStaminaQTE1.cs",
               "ToolTip": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\QTE1\\BarraStaminaQTE1.cs",
               "RelativeToolTip": "Assets\\Scripts\\QTE1\\BarraStaminaQTE1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T22:39:59.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "BarraEquilibrioQTE1.cs",
               "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\QTE1\\BarraEquilibrioQTE1.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\QTE1\\BarraEquilibrioQTE1.cs",
               "ToolTip": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\QTE1\\BarraEquilibrioQTE1.cs",
               "RelativeToolTip": "Assets\\Scripts\\QTE1\\BarraEquilibrioQTE1.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAUwGQAAAAcAAAA",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAIwFcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T22:00:34.557Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Buttons.cs",
               "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\Buttons.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\General\\Buttons.cs",
               "ToolTip": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\Buttons.cs",
               "RelativeToolTip": "Assets\\Scripts\\General\\Buttons.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBQAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T22:39:15.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReturnToMenu.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\ReturnToMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\ReturnToMenu.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\ReturnToMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\ReturnToMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T22:59:03.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MenuAnimations.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\MenuAnimations.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\MenuAnimations.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\MenuAnimations.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\MenuAnimations.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwD0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T22:56:40.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlwaysAwake.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\AlwaysAwake.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\AlwaysAwake.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AkapanaGOD\\Assets\\Scripts\\General\\AlwaysAwake.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\AlwaysAwake.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T23:04:45.575Z"
             }
           ]
         }

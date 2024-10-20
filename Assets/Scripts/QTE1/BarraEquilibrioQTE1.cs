@@ -12,8 +12,9 @@ public class BarraEquilibrioQTE1 : MonoBehaviour
         public GameObject InputA;
 
         public GameObject MenuLose;
+    public GameObject GameUI;
 
-        bool reverse = false;
+    bool reverse = false;
         bool waitingForInput = false;
 
         XboxController controls;
@@ -98,6 +99,7 @@ public class BarraEquilibrioQTE1 : MonoBehaviour
                 InputA.SetActive(false);
                 Time.timeScale = 0;
                 MenuLose.SetActive(true);
+            GameUI.SetActive(false);
             StopVibration();
         }
         }
